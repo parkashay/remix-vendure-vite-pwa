@@ -1,0 +1,46 @@
+[
+    {
+        "uri": "/index.html",
+        "redirect": "https://koolairpump.com"
+    },
+    {
+        "uri": "/koolair/",
+        "redirect": "https://koolairpump.com/about-us"
+    },
+    {
+        "uri": "/seawater-circulation/koolair-pumps/spm1000/",
+        "redirect": "https://koolairpump.com/products/koolair-spm1000-115v"
+    },
+    {
+        "uri": "/seawater-circulation/repair-parts/",
+        "redirect": "https://koolairpump.com/collections/koolair-replacement-parts"  
+    },
+    {
+        "uri": "/coolant-pumps/",
+        "redirect": "https://koolairpump.com/datasheets"  
+    },
+    {
+        "uri": "/koolair-marine-pump/",
+        "redirect": "https://koolairpump.com/what-is-a-koolair-pump"  
+    },
+    {
+        "uri": "/seawater-circulation/koolair-pumps/pm1000/",
+        "redirect": "https://koolairpump.com/products/koolair-pm1000-115v"  
+    },   
+    {
+        "uri": "/seawater-circulation/replacement-heads/",
+        "redirect": "https://koolairpump.com/collections/koolair-replacement-parts"  
+    },    
+    {
+        "uri": "/product/pm500-115/",
+        "redirect": "https://koolairpump.com/products/koolair-pm500-115v"  
+    },
+    {
+        "uri": "/seawater-circulation/koolair-pumps/",
+        "redirect": "https://koolairpump.com/datasheets"  
+    },
+    {
+        "uri": "/seawater-circulation/koolair-pumps/pm500/",
+        "redirect": "https://koolairpump.com/products/koolair-pm500-115v"  
+    }
+]
