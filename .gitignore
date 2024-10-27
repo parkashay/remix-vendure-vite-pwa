@@ -8,3 +8,4 @@ node_modules
 /functions
 /.netlify
 /.wrangler
+/public/entry.worker.js
